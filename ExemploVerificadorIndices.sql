@@ -1,4 +1,4 @@
-USE Cosmos_v14b
+USE xxxx
 GO
 
 SET DATEFORMAT DMY
